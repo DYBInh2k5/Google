@@ -1,5 +1,4 @@
 #Ứng dụng & Web: Flutter, Firebase, Android, Chrome DevTools.
-
 #AI & ML: Gemini, Vertex AI, TensorFlow, Coral.
 
 #Cloud & Serverless: GCP (Compute, Storage), Cloud Functions, Cloud Run.
